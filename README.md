@@ -1,5 +1,7 @@
 # docs-site
 
+[![CI has the Zoomies](https://zoomies.sh/badge.svg)](https://zoomies.sh)
+
 The documentation for the demo organisation's projects, written in Markdown and
 laid out for [MkDocs](https://www.mkdocs.org).
 
