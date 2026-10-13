@@ -1,0 +1,9 @@
+site_name: Zoomies Demo Docs
+site_description: Documentation for the Zoomies demo organisation's shop and payments service.
+
+nav:
+  - Home: index.md
+  - Getting started: getting-started.md
+  - Payments API: payments-api.md
+  - Storefront: storefront.md
+  - Contributing: contributing.md
